@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uday280603" alt="uday280603" /></a> </p>
 
-- 🔭 I’m currently working on **JAVA, HTML, CSS, JAVASCRIPT,**
+- 🔭 I’m currently working on **JAVA, HTML, CSS, JAVASCRIPT, HIBERNATE, REST API,SPRING, SPRING BOOT**
 
 - 👯 I’m looking to collaborate on **JAVA PROJECTS**
 
