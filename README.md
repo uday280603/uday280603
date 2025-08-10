@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Uday VIjay Indrawar</h1>
-<h3 align="center">A passionate full stack java developer from India</h3>
+<h3 align="center">A PASSIONATE FULL STACK JAVA DEVELOPER FROM INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday280603&label=Profile%20views&color=0e75b6&style=flat" alt="uday280603" /> </p>
 
